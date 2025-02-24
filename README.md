@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Azevedo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Web`**
 
 Olá! Me chamo Gustavo e sou apaixonado por tecnologia e programação! 🚀
 
