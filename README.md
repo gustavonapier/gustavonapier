@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B18BA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Azevedo.;I'm+from+Rio+de+Janeiro,+Brazil.;Welcome+to+my+GitHub+profile!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavonapier&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavonapier&theme=tokyonight&hide_border=true" />
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavonapier&bg_color=000000&color=AE53F5&line=EDDF39&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
