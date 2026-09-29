@@ -4,7 +4,7 @@
 
 ### Oi, eu sou o Gustavo 👋
 
-Desenvolvedor web e estudante de **Ciência da Computação** (reta final). Crio sites e landing pages sob medida para pequenos negócios e profissionais: do layout à publicação, com foco em **visual marcante, velocidade e versão mobile**.
+Desenvolvedor web, graduado em **Ciência da Computação**. Crio sites e landing pages sob medida para pequenos negócios e profissionais: do layout à publicação, com foco em **visual marcante, velocidade e versão mobile**.
 
 - 🎨 Design e front-end: HTML, CSS, JavaScript, React
 - ⚡ Animações e interações com GSAP
