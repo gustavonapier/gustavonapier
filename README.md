@@ -4,7 +4,7 @@
 
 ### Oi, eu sou o Gustavo 👋
 
-Software Engineer, graduado em**Ciência da Computação**. Crio sites e landing pages sob medida para pequenos negócios e profissionais: do layout à publicação, com foco em **visual marcante, velocidade e versão mobile**.
+Software Engineer, graduado em **Ciência da Computação**. Crio sites e landing pages sob medida para pequenos negócios e profissionais: do layout à publicação, com foco em **visual marcante, velocidade e versão mobile**.
 
 - 🎨 Front-end: React, TypeScript, JavaScript, HTML e CSS
 - 🛠️ Back-end: PHP, Node.js e MySQL
